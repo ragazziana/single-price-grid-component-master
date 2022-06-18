@@ -12,6 +12,5 @@ You can see my solution compared with the original here: https://www.frontendmen
 
 Any suggestions on how I can improve are welcome!
 
--
 Author
 Frontend Mentor - @ragazziana
