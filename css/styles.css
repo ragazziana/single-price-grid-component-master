@@ -196,8 +196,6 @@ ul{
 
     body {
         background-color: var(--light-gray);
-        overflow-y:scroll;
-        overflow-x: hidden;
     }
 
     .wrapper{
